@@ -1,1 +1,5 @@
-C# Form & Console DEVELOPER.
+C# .NET 
+PHP
+JavaScript
+JQuery
+Backend Junior Developer
